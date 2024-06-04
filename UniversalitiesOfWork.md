@@ -5,8 +5,8 @@ All professions would greatly benefit from a Six Element system similar to a pil
 - Training covers everything which would be applicable to the piloting not just a subset of common things
 - Knowledge and training is to reach practice based fluency and handle 2/3 intertwined hazards at once; not just to pass one or two exams.
 - Ability to think forward and in reverse:
-- Forward: based to these inputs/constraints, we can get to the outcome X
-- Backward: based on situation X we currently see, we most likely got there based on these inputs/constraints
+  - Forward: based to these inputs/constraints, we can get to the outcome X
+  - Backward: based on situation X we currently see, we most likely got there based on these inputs/constraints
 - Trained so that what is most important gets the most training coverage and so gets raised to the highest fluency levels
 - Checklist routines at mandatory
 - Should be forced into a special knowledge maintenance routine to prevent skills atrophy from long disuse of skills used to cope in rare and important problems.
