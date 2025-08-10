@@ -16,7 +16,14 @@
 
 **Four Thousand Weeks: Time Management for Mortals** by `Oliver Burkeman`
 
+**Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger** `By: Charles T. Munger`
+
 ## Highly recomended
+
+
+**Broken Money: Why Our Financial System Is Failing Us and How We Can Make It Better** `By: Lyn Alden`
+
+**Slow Productivity: The Lost Art of Accomplishment Without Burnout** `By: Cal Newport`
 
 **Mindfuck: Inside Cambridge Analytica's Plot to Break the World** By: `Christopher Wylie`
 
@@ -55,6 +62,10 @@
 **So Good They Can't Ignore You** By: `Cal Newport`
 
 **Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones** By: `James Clear`
+
+**Spies and Lies: How China's Greatest Covert Operations Fooled the World** `By: Alex Joske`
+
+**The Future of Geography: How Power and Politics in Space Will Change Our World** `By: Tim Marshall`
 
 ## Others I have enjoyed
 
@@ -156,6 +167,21 @@
 
 **Contagious: Why Things Catch On** `By: Jonah Berger`
 
+**The Permanent Portfolio: Harry Browne's Long-Term Investment Strategy** `By: Craig Rowland, J. M. Lawson`
+
+**Breath: The New Science of a Lost Art** `By: James Nestor`
+
+**Meeting the Shadow on the Spiritual Path: The Dance of Darkness and Light in Our Search for Awakening** `By: Connie Zweig`
+
+**The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics** `By: Ben Buchanan`
+
+**The Obstacle Is the Way: 10th Anniversary Edition: The Timeless Art of Turning Trials into Triumph** `By: Ryan Holiday`
+
+**Putin and the Return of History: How the Kremlin Rekindled the Cold War** `By: Martin Sixsmith, Daniel Sixsmith - contributor`
+
+**Chinese Communist Espionage: An Intelligence Primer** `By: Peter Mattis, Matthew Brazil`
+
+**A Short History of England** `By: Sir Simon Jenkins`
 
 ## My wish list 
 
