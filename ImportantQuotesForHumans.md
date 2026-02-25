@@ -18,7 +18,6 @@ Hofstadter's law - **"It always takes longer than you expect, even when you take
 
 **"Transformation-ready leaders don’t ask what they need to know about a given circumstance; they ask what they can learn from it."**
 
-
 ## Note from [Poor Charlies Almanack](https://www.audible.co.uk/pd/Poor-Charlies-Almanack-Audiobook/B0CMDCJN99) on the professions:
 
 All professions would greatly benefit from a Six Element system similar to a ~~pilot's~~ hacker's training:
@@ -50,4 +49,28 @@ and who at the worst, if he fails, at least fails while daring greatly,
 
 so that his place shall never be with those cold and timid souls who neither know victory nor defeat."
 ```
+
+
+# History
+
+"Most history is guessing, the rest is prejudice" 
+
+"The present is the past rolled up for Action, and the past is the present unrolled for understanding"
+
+"Civilization: Social order to produce cultural creation"
+
+"Intellect is a vital force in history, but it can also be a destructive power. ... It can be used as an instrument for justifying impulse...and thats dangerous"
+
+"A hero is a product of the situation rather than the the result being a product of the hero"
+
+"Religion is the product of hundreds of thousands of years. It is therfore very dangerous for an indervidual to think that with their own indervidual mind of only 30,40,50,60 years that they can stand up and judge the thousands of years of experience of the race"
+
+"The only lesson we learned from history is that we don't learn any lessons from history" - Georg Hegel
+
+
+# Genders
+
+"A man is the head of the household, but a woman is the neck who turns the head"
+
+" Love enters a man through the eyes and a Woman through the ears"
 
