@@ -14,7 +14,7 @@
   - **Macro** Ecconomics 📉📈
 
 - 📚 The books I consume are listed [here](https://github.com/YorkshireGold/YorkshireGold/blob/main/books.md).
-- :wrench: [My views on work](https://github.com/YorkshireGold/YorkshireGold/blob/main/UniversalitiesOfWork.md)
+- :wrench: [Important quotes from history](https://github.com/YorkshireGold/YorkshireGold/blob/main/ImportantQuotesForHumans.md)
   
 - 💞️ I’m looking to collaborate Offensive Cyber projects that are data driven.
   
