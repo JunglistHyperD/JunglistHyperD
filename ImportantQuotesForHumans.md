@@ -18,6 +18,8 @@ Hofstadter's law - **"It always takes longer than you expect, even when you take
 
 **"Transformation-ready leaders don’t ask what they need to know about a given circumstance; they ask what they can learn from it."**
 
+**"Leadership is working through change. Management is working through complexity"** 
+
 ## Note from [Poor Charlies Almanack](https://www.audible.co.uk/pd/Poor-Charlies-Almanack-Audiobook/B0CMDCJN99) on the professions:
 
 All professions would greatly benefit from a Six Element system similar to a ~~pilot's~~ hacker's training:
